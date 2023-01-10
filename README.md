@@ -1,3 +1,5 @@
+Développement de l'application "FeedbakcApp". Une application web qui a pour but de recolter les avis des clients dans le domaine de la restauration. Les partenaires (snacks, restaurants...) peuevtn consulter les avis laissés sur leur enseignes et apprter des correctifs si necessaires dans le but de satisfaire et fideliser la clientele. Les clients accede à la page du restaurant via une recherche et peuvent rediger un avis quant à leur satisfaction ou insatisfaction. Les partenaires ont acces à une messagerie via leur compte pour consulter les avis.
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
